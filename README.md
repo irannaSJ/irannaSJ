@@ -1,174 +1,225 @@
 <div align="center">
 
-# 👋 Hey, I'm Iranna S J
+# IRANNA S J
 
-### `Software Developer` · `Android Developer` · `AI/ML Enthusiast`
+### Software Developer · Android · AI/ML · Generative AI
 
-Building **practical software with clean architecture, modern UI, and intelligent systems.**
+Building intelligent applications where **clean engineering meets practical AI**.
 
 <br>
 
 <a href="https://github.com/irannaSJ">
-  <img src="https://img.shields.io/badge/GitHub-irannaSJ-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-irannaSJ-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/iranna-s-j">
-  <img src="https://img.shields.io/badge/LinkedIn-Iranna%20S%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About
 
-I'm a developer who enjoys turning ideas into **real, usable products**.
+I'm a software developer interested in building **modern applications, AI-powered systems, and intelligent developer tools**.
 
-My interests sit at the intersection of:
+My work spans across:
 
-* 📱 **Android Development**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🧠 **Generative AI & RAG Systems**
-* ☁️ **Cloud & Backend Systems**
-* 🏗️ **Clean Architecture & Scalable Applications**
+* 📱 Android & modern mobile applications
+* 🤖 Generative AI & AI agents
+* 🧠 Machine Learning & Edge AI
+* 🔎 Retrieval-Augmented Generation
+* ☁️ Cloud & backend systems
+* 🏗️ Clean architecture and scalable software
 
-I particularly enjoy working on projects where **software engineering meets AI**.
-
-Currently focused on building production-oriented applications with **Kotlin, Jetpack Compose, Python, and modern AI technologies**.
+I enjoy taking an idea from **concept → architecture → implementation → working product**.
 
 ---
 
-## ⚡ What I'm Building
+## 🚀 What I Do
 
 ```text
-📱 Modern Android Applications
-        ↓
-🏗️ Clean Architecture + MVVM
-        ↓
-🌐 API & Backend Integration
-        ↓
-🤖 AI / ML Capabilities
-        ↓
-☁️ Cloud-ready Systems
+┌─────────────────────────────────────────────┐
+│                                             │
+│   📱  Android Development                   │
+│       Kotlin • Jetpack Compose              │
+│                                             │
+│   🤖  AI / ML                               │
+│       GenAI • Agents • Edge AI              │
+│                                             │
+│   🧠  Intelligent Systems                   │
+│       RAG • LLMs • Computer Vision          │
+│                                             │
+│   ☁️  Backend & Cloud                       │
+│       APIs • ERPNext • Cloud Systems        │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-I'm currently exploring how to build applications that are:
-
-**Fast · Offline-first · Maintainable · Intelligent · Production-ready**
-
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Android Development
-
-<p>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%203-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-</p>
-
-### Backend & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-3FA037?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🧩 Featured Work
 
 ### 🤖 Autonomous Code Weaver
 
-An AI-powered development assistant exploring autonomous coding workflows and intelligent software generation.
+**Multi-agent AI system for autonomous software development.**
 
-**Tech:** `Python` · `AI Agents` · `Generative AI`
+Takes a high-level software requirement and coordinates specialized AI agents to plan, architect, generate, and review the resulting application.
+
+**Built with**
+
+`Python` · `LangGraph` · `Groq` · `Pydantic` · `LLMs`
+
+[→ View Project](https://github.com/irannaSJ/Autonomous-Code-Weaver)
 
 ---
 
 ### 🖐️ Edge AI Sign Language Translation
 
-Real-time sign language translation using **Edge AI**, computer vision, and on-device machine learning.
+**Real-time ASL recognition running directly on edge hardware.**
 
-**Tech:** `Python` · `TensorFlow` · `TensorFlow Lite` · `MediaPipe` · `MobileNetV2`
+Uses MediaPipe hand landmarks and an INT8 TensorFlow Lite model to perform lightweight, low-latency sign recognition without requiring a GPU.
+
+**Built with**
+
+`Python` · `MediaPipe` · `TensorFlow Lite` · `Computer Vision` · `Edge AI`
+
+[→ View Project](https://github.com/irannaSJ/Edge-AI-for-Real-Time-Sign-Language-Translation)
 
 ---
 
 ### 📱 Namma-Kelsa
 
-A modern Android marketplace application designed around connecting users with local services.
+**Android application focused on connecting users with local services.**
 
-**Tech:** `Kotlin` · `Jetpack Compose` · `Android`
+**Built with**
+
+`Kotlin` · `Android` · `Jetpack`
+
+[→ View Project](https://github.com/irannaSJ/Namma-Kelsa)
 
 ---
 
 ### 🧠 RAG Chat Assistant
 
-A retrieval-augmented conversational system combining document retrieval with generative AI.
+An AI assistant built around **Retrieval-Augmented Generation**, combining document retrieval with generative AI for contextual responses.
 
-**Tech:** `Python` · `RAG` · `LLMs` · `Vector Search`
+**Built with**
+
+`Python` · `RAG` · `LLMs` · `AI`
+
+[→ View Project](https://github.com/irannaSJ/Rag_Chat_Assistant)
 
 ---
 
 ### ☁️ Hybrid Cloud
 
-A cloud architecture project focused on **security and data deduplication using Hybrid Cloud infrastructure**.
+A cloud computing project focused on **security and data deduplication using Hybrid Cloud architecture**.
 
-**Tech:** `Java` · `Cloud Computing` · `Security`
+**Built with**
+
+`Java` · `Cloud Computing` · `Security`
+
+[→ View Project](https://github.com/irannaSJ/HybridCloud)
 
 ---
 
-# 🧩 Engineering Interests
+# 🛠️ Technology
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,python,java,c,js" />
+</p>
+
+### Android
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
+
+`Jetpack Compose` · `Material 3` · `MVVM` · `Hilt` · `Room` · `Retrofit` · `Coroutines`
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+`Generative AI` · `AI Agents` · `RAG` · `LangGraph` · `Computer Vision` · `TensorFlow Lite` · `MediaPipe`
+
+### Backend / Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,linux" />
+</p>
+
+`REST APIs` · `ERPNext` · `Frappe` · `MariaDB` · `Cloud Computing`
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
+</p>
+
+---
+
+# 🏗️ Engineering Principles
+
+I try to build software around a few simple principles:
 
 ```text
-Clean Architecture
-        │
-        ├── Modular Applications
-        ├── Offline-First Systems
-        ├── Scalable Backend Architecture
-        ├── AI-powered Applications
-        ├── Edge AI
-        └── Developer Experience
+        Simple
+          ↓
+      Understandable
+          ↓
+      Maintainable
+          ↓
+        Scalable
+          ↓
+       Production
 ```
 
-I care about more than just making software work.
+### Things I care about
 
-I enjoy understanding **why a system should be designed a certain way**, how its components communicate, and how it can evolve without becoming difficult to maintain.
+* Clean architecture
+* Separation of concerns
+* Offline-first design
+* Reliable data flow
+* Modular systems
+* Good developer experience
+* Performance
+* Practical AI rather than AI for the sake of AI
+
+---
+
+# 🧠 Currently Exploring
+
+```text
+Android
+   │
+   ├── Jetpack Compose
+   ├── Clean Architecture
+   ├── Offline-first applications
+   └── Enterprise Android
+          │
+          ▼
+       Backend
+          │
+          ├── REST APIs
+          ├── ERPNext / Frappe
+          └── Cloud systems
+          │
+          ▼
+          AI
+          │
+          ├── Generative AI
+          ├── AI Agents
+          ├── RAG
+          └── Edge AI
+```
+
+My current goal is to become better at building **complete production-oriented systems**, rather than focusing on only one layer of the stack.
 
 ---
 
@@ -176,9 +227,9 @@ I enjoy understanding **why a system should be designed a certain way**, how its
 
 * 🏅 Oracle Generative AI Certification
 * 🤖 Oracle Agent Builder Champion
-* 📱 Android Application Development experience
-* 🧠 AI / ML project experience
-* ☁️ Cloud & distributed-system project experience
+* 📱 Android Application Development
+* 🧠 AI / ML Project Development
+* ☁️ Cloud Computing Projects
 
 ---
 
@@ -186,9 +237,9 @@ I enjoy understanding **why a system should be designed a certain way**, how its
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irannaSJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=irannaSJ&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irannaSJ&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irannaSJ&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
 </div>
 
@@ -196,29 +247,31 @@ I enjoy understanding **why a system should be designed a certain way**, how its
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=irannaSJ&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=irannaSJ&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irannaSJ&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irannaSJ&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💡 Current Direction
+# 🌱 Beyond the Code
 
-I'm currently deepening my skills in:
+I believe the best developers don't just learn technologies.
 
-**Android → Backend → AI → Cloud**
+They learn how to:
 
-with a focus on building applications that feel polished on the surface while remaining **well-engineered underneath**.
+**Understand → Design → Build → Debug → Improve**
+
+That's the mindset I'm carrying into every project.
 
 ---
 
@@ -226,20 +279,20 @@ with a focus on building applications that feel polished on the surface while re
 
 <div align="center">
 
-If you're interested in **Android, AI, Generative AI, Edge AI, or software engineering**, feel free to connect.
+### Interested in Android, AI, GenAI, Edge AI or building useful software?
 
 <br>
 
 <a href="https://github.com/irannaSJ">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/iranna-s-j">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ⭐ Thanks for visiting!
+⭐ If something here interests you, feel free to explore my repositories.
 
 </div>
